@@ -12,7 +12,7 @@ A simple, colorful, interactive CLI tool to bulk rename files by replacing patte
 - Easy to use `.exe` for Windows users
 
 ## Usage
-[![Download for Windows](https://img.shields.io/badge/Download%20EXE-Windows-blue?logo=windows&style=for-the-badge)](https://github.com/ratulhasanruhan/bulk_file_renamer_rust/blob/master/bulk_file_renamer.exe)
+[![Download for Windows](https://img.shields.io/badge/Download%20EXE-Windows-blue?logo=windows&style=for-the-badge)](https://github.com/ratulhasanruhan/bulk_file_renamer_rust/releases/download/stable/bulk_file_renamer.exe)
 
 Click the button above to download the latest `.exe` for Windows. Then run the exe.
 
